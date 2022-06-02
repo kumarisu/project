@@ -3,7 +3,7 @@ Software development project
 
 ## 1. What
 ### define view
- - delevery value to customer
+ - delivery value to customer
  - time bound
 ### organization view
  - roles
